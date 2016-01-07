@@ -6,8 +6,7 @@
 > chrome://extensions
 
 3. Enable the Developer mode option on the top right corner of the extensions page. The buttons "Load unpacked extension" and "Pack extension" will appear on the screen.
-
 ![Enable developer mode](http://winaero.com/blog/wp-content/uploads/2014/05/developer-mode-enabled-600x464.png "")
 
-
-[How to load unpacked extension](http://winaero.com/blog/how-to-install-a-blocked-extension-in-google-chrome/)
+4. Click the Load unpacked extension button and point the browser to the unpacked extension folder.
+![Load unpacked extension](http://winaero.com/blog/wp-content/uploads/2014/05/unpacked-extension-folder-600x466.png "")
