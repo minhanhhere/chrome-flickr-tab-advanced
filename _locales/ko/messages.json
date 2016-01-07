@@ -1,0 +1,22 @@
+{
+   "extDesc": {
+      "description": "extDesc",
+      "message": "새로운 Chrome 탭에서 Flickr를 둘러보세요."
+   },
+   "extName": {
+      "description": "extName",
+      "message": "Flickr 탭"
+   },
+   "extNameDogfood": {
+      "description": "extNameDogfood",
+      "message": "Flickr 탭 개 사료"
+   },
+   "newTabTitle": {
+      "description": "newTabTitle",
+      "message": "새로운 Flickr 탭"
+   },
+   "noTitle": {
+      "description": "noTitle",
+      "message": "Untitled"
+   }
+}

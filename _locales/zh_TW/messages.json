@@ -1,0 +1,22 @@
+{
+   "extDesc": {
+      "description": "extDesc",
+      "message": "在你的全新 Chrome 分頁發掘 Flickr。"
+   },
+   "extName": {
+      "description": "extName",
+      "message": "Flickr 分頁"
+   },
+   "extNameDogfood": {
+      "description": "extNameDogfood",
+      "message": "Flickr 分頁 Dogfood"
+   },
+   "newTabTitle": {
+      "description": "newTabTitle",
+      "message": "Flickr 的新分頁"
+   },
+   "noTitle": {
+      "description": "noTitle",
+      "message": "Untitled"
+   }
+}

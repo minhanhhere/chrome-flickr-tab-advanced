@@ -1,0 +1,22 @@
+{
+   "extDesc": {
+      "description": "extDesc",
+      "message": "Esplora Flickr nella nuova scheda di Chrome."
+   },
+   "extName": {
+      "description": "extName",
+      "message": "Scheda Flickr"
+   },
+   "extNameDogfood": {
+      "description": "extNameDogfood",
+      "message": "Scheda Flickr Dogfood"
+   },
+   "newTabTitle": {
+      "description": "newTabTitle",
+      "message": "Nuova scheda di Flickr"
+   },
+   "noTitle": {
+      "description": "noTitle",
+      "message": "Untitled"
+   }
+}

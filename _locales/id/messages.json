@@ -1,0 +1,22 @@
+{
+   "extDesc": {
+      "description": "extDesc",
+      "message": "Jelajahi Flickr di tab Chrome baru."
+   },
+   "extName": {
+      "description": "extName",
+      "message": "Tab Flickr"
+   },
+   "extNameDogfood": {
+      "description": "extNameDogfood",
+      "message": "Uji Coba Tab Flickr"
+   },
+   "newTabTitle": {
+      "description": "newTabTitle",
+      "message": "Tab baru oleh Flickr"
+   },
+   "noTitle": {
+      "description": "noTitle",
+      "message": "Untitled"
+   }
+}

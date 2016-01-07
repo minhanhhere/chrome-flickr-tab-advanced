@@ -1,0 +1,22 @@
+{
+   "extDesc": {
+      "description": "extDesc",
+      "message": "Entdecke Flickr auf deiner neuen Chrome-Registerkarte."
+   },
+   "extName": {
+      "description": "extName",
+      "message": "Flickr Tab"
+   },
+   "extNameDogfood": {
+      "description": "extNameDogfood",
+      "message": "Flickr Tab Dogfood"
+   },
+   "newTabTitle": {
+      "description": "newTabTitle",
+      "message": "Neue Registerkarte von Flickr"
+   },
+   "noTitle": {
+      "description": "noTitle",
+      "message": "Untitled"
+   }
+}

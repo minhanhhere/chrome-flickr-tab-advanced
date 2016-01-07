@@ -6,6 +6,7 @@
    "chrome_url_overrides": {
       "newtab": "flickr-tab.html"
    },
+   "default_locale": "en",
    "content_security_policy": "script-src 'self' 'unsafe-eval' https://*.flickr.com https://*.yahooapis.com; object-src 'self'",
    "description": "__MSG_extDesc__",
    "homepage_url": "https://www.flickr.com/chrome",

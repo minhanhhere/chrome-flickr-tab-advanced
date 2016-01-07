@@ -1,0 +1,22 @@
+{
+   "extDesc": {
+      "description": "extDesc",
+      "message": "Explora Flickr en tu nueva pestaña de Chrome."
+   },
+   "extName": {
+      "description": "extName",
+      "message": "Pestaña de Flickr"
+   },
+   "extNameDogfood": {
+      "description": "extNameDogfood",
+      "message": "Entorno de validación para las pestañas de Flickr"
+   },
+   "newTabTitle": {
+      "description": "newTabTitle",
+      "message": "Nueva pestaña de Flickr"
+   },
+   "noTitle": {
+      "description": "noTitle",
+      "message": "Untitled"
+   }
+}
