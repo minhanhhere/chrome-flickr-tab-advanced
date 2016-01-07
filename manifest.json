@@ -1,0 +1,22 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "event.js" ]
+   },
+   "chrome_url_overrides": {
+      "newtab": "flickr-tab.html"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://*.flickr.com https://*.yahooapis.com; object-src 'self'",
+   "description": "__MSG_extDesc__",
+   "homepage_url": "https://www.flickr.com/chrome",
+   "icons": {
+      "128": "flickr128.png",
+      "48": "flickr48.png"
+   },
+   "incognito": "split",
+   "manifest_version": 2,
+   "name": "Flickr Tab advanced",
+   "permissions": [ "alarms", "storage", "geolocation" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.8"
+}
