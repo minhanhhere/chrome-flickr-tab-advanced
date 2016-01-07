@@ -1,6 +1,6 @@
 # Flickr Tab Advanced
 
-1. [Download](github.com/minhanhhere/chrome-flickr-tab-advanced/raw/master/chrome-flick-tab-advanced.zip) & unzip the extension
+1. [Download](raw/master/chrome-flick-tab-advanced.zip) & unzip the extension
 
 2. Open the Google Chrome browser and type the following in the address bar:
 > chrome://extensions
